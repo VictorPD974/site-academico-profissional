@@ -25,7 +25,4 @@ COMO PUBLICAR NO INFINITYFREE
 5. Envie todos os arquivos desta pasta para htdocs.
 6. Acesse o endereço fornecido pelo serviço.
 
-OBSERVAÇÃO
-O formulário de contato nesta versão é demonstrativo. Na próxima etapa,
-podemos criar o backend PHP + MySQL, autenticação de administrador e
-cadastro dinâmico de projetos.
+
